@@ -1,0 +1,18 @@
+{
+  "account": {
+    "holder_name": "Student User",
+    "total_balance": 2100,
+    "monthly_budget_cap": 2500,
+    "spent_this_month": 400
+  },
+  "constraints": {
+    "saturday_dinner_cost": 150,
+    "saturdays_left_in_month": 3,
+    "minimum_safety_buffer": 200
+  },
+  "recent_transactions": [
+    {"date": "2025-11-20", "item": "Stationery Shop", "amount": 200},
+    {"date": "2025-11-21", "item": "Evening Snacks", "amount": 50},
+    {"date": "2025-11-25", "item": "Photocopy Notes", "amount": 100}
+  ]
+}
