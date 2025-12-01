@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Stack](https://img.shields.io/badge/Tech-LangChain%20%7C%20Gemini%201.5%20%7C%20Google%20Search-orange)
+![Stack](https://img.shields.io/badge/Tech-LangChain%20%7C%20Gemini%202.0%20Flash%20%7C%20Google%20Search-orange)
 
 > **Competition Track:** Agents for Good   
 > **Submission by:** Divyanshu Jaiswal
