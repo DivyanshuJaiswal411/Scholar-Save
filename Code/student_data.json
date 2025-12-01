@@ -1,0 +1,18 @@
+{
+  "account": {
+    "holder_name": "Student User",
+    "total_balance": 1200,
+    "monthly_budget_cap": 2500,
+    "spent_this_month": 1300
+  },
+  "constraints": {
+    "saturday_dinner_cost": 150,
+    "saturdays_left_in_month": 0,
+    "minimum_safety_buffer": 200,
+    "mess_status": "Closed on Saturdays"
+  },
+  "recent_transactions": [
+    {"date": "2025-11-28", "item": "Xerox Notes", "amount": 80},
+    {"date": "2025-11-29", "item": "Mobile Recharge", "amount": 299}
+  ]
+}
