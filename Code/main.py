@@ -18,8 +18,8 @@ from langchain_community.utilities import GoogleSearchAPIWrapper
 # ==========================================
 # 🔑 CONFIGURATION
 # ==========================================
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDXIdnRVpkmsRvS9b4rlauHmT35CkVpVN8"
-os.environ["GOOGLE_CSE_ID"] = "b659007a91c684c59"
+os.environ["GOOGLE_API_KEY"] = "Gemini API Key"
+os.environ["GOOGLE_CSE_ID"] = "CSE Key"
 os.environ["GOOGLE_API_KEY"] = os.environ.get("GOOGLE_API_KEY") 
 
 # ==========================================
@@ -150,4 +150,5 @@ if __name__ == "__main__":
             result = agent_executor.invoke({"input": user_input})
             print(f"\nAGENT: {result['output']}")
         except Exception as e:
+
             print(f"Error: {e}")
