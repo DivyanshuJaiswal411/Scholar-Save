@@ -37,7 +37,7 @@ The system uses a **ReAct (Reason + Act)** loop powered by **Google Gemini 1.5 F
 
 ### Technical Stack
 * **Orchestration:** `LangChain` (Python)
-* **LLM:** `gemini-1.5-flash` (via `langchain-google-genai`)
+* **LLM:** `gemini-2.0-flash` (via `langchain-google-genai`)
 * **Tools:**
     * `check_affordability_logic`: Custom Python logic for budget forecasting.
     * `get_financial_status`: Reads from the mock banking database (`student_data.json`).
